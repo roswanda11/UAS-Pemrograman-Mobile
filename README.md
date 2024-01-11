@@ -182,18 +182,18 @@ Fibonacci Sequence (Deret angka Fibonacci) adalah deret angka yang diperoleh den
 
       1, 1, 2, ... 1 + 2 = 3 ( 1, 1, 2, 3, ... ) 2 + 3 = 5 ( 1, 1, 2, 3, 5, ... ) 3 + 5 = 8 ( 1, 1, 2, 3, 5, 8, ... )
 
-**- Mode Perhitungan**  
+- Mode Perhitungan
 Terdapat 2 Mode pada aplikasi fibonacci tersebut yakni:<br>
-- Limited-Mode : harus memasukkan limit/batas terlebih dahulu baru bisa melakukan perhitungan.
-- Unlimited-Mode : tanpa harus memasukkan limit/batas untuk melakukan perhitungan.<br>
+  - Limited-Mode : harus memasukkan limit/batas terlebih dahulu baru bisa melakukan perhitungan.
+  - Unlimited-Mode : tanpa harus memasukkan limit/batas untuk melakukan perhitungan.<br>
 
-**- Limit/Batas Perhitungan**  
+- Limit/Batas Perhitungan 
 Arti limit/Batas disini adalah User bisa membatasi perhitungan fibonacci dibaris keberapa contoh user menginputkan 12 maka perhitungan fibonacci akan berhenti pada nilai 144 karna nilai 144 adalah baris ke-12 dalam perhitungan fibonacci.<br>
 
-**- Perhitungan Naik (Count Up) dan Perhitungan Turun (Count Down)**  
+- Perhitungan Naik (Count Up) dan Perhitungan Turun (Count Down)  
 Yaitu perhitungan bisa dilakukan naik (Count Up) dan Perhitungan bisa dilakukan menurun (Count Down), maksudnya adalah pada saat user melakukan perhitungan naik smpai nilai 21 daln jika user melakukan perhitungan turun sekali maka akan mundur satu baris, nilainya menjadi 13 karna nilai sebelum 21 adalah 13.<br>
 
-**- Reset**  
+- Reset
 Yaitu semua nilai terkait Fibonacci diatur kembali ke nilai awal, dan tampilan diperbarui.<br>
 
 ### Tampilan UI
@@ -273,7 +273,7 @@ Penjelasan ButtonCount
         Menampilkan nilai terbaru pada elemen tampilan showHitung.
 
 
-**- Tampilan Baris Fibonacii**  
+- Tampilan Baris Fibonacii  
 Yaitu menampilkan baris berapa dalam perhitungan fibonacci saat ini.
 
 ![fibonacciwanda](https://github.com/roswanda11/UAS-Pemrograman-Mobile/assets/115516632/e5b55934-bfeb-4eb1-bb88-6c14414c8b23)
