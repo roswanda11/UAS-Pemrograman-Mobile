@@ -126,7 +126,7 @@ Metode Utama:
 Fungsi Utama:
 
 - Inisialisasi:
-- ```onCreate``` digunakan untuk menginisialisasi aktivitas dan menetapkan layout (```activity_icecold```) yang berisi tampilan berita.
+  - ```onCreate``` digunakan untuk menginisialisasi aktivitas dan menetapkan layout (```activity_icecold```) yang berisi tampilan berita.
 
 Tampilan Berita:
 
@@ -145,8 +145,10 @@ https://github.com/roswanda11/UAS-Pemrograman-Mobile/assets/115516632/6811c3b0-f
 Alarm adalah program yang menampilkan alarm menggunakan fungsi dari **AlarmManager**. **AlarmManager** adalah komponen sistem Android yang memungkinkan Anda menjadwalkan dan mengeksekusi kode pada waktu tertentu, baik itu dalam waktu segera, satu kali, atau berulang.
 
 Metode Utama:
-    - ```onCreate```: Menginisialisasi ```TimePicker``` dan ```AlarmManager```.
-    - ```OnToggleClicked```: Mengelola fungsi alarm saat tombol toggle diubah.
+
+- ```onCreate```: Menginisialisasi ```TimePicker``` dan ```AlarmManager```.
+    
+- ```OnToggleClicked```: Mengelola fungsi alarm saat tombol toggle diubah.
     
 Fungsi Utama:
 
