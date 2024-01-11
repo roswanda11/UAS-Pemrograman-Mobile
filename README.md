@@ -206,7 +206,5 @@ Movie adalah program yang dibuat untuk mengimplementasikan fungsi **Fragment** d
 
 ![fragmenteyebrowwanda](https://github.com/roswanda11/pm/assets/115516632/b8de1277-2f04-4693-8358-c275fc525e47)
 
-
 https://github.com/roswanda11/UAS-Pemrograman-Mobile/assets/115516632/7c5819fe-039c-4d37-8d29-c2ce47ddddc2
 
-**[Back-->](#uas-Rosé-app)**
