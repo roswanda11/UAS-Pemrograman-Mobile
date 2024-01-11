@@ -30,7 +30,7 @@
 
 ## Demo Aplikasi
 
-https://github.com/roswanda11/pm/assets/115516632/07c9ced3-2a3d-49a4-9110-3a372423acc2
+https://github.com/roswanda11/UAS-Pemrograman-Mobile/assets/115516632/fdd1af91-b298-434e-b950-97a4b582576c
 
 ## **Daftar Isi**
 **[Tampilan & Menu Aplikasi](#tampilan--menu-aplikasi)**<br>
